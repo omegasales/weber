@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-06-06_1742",
-    "currentPage": "Genesis-II.html",
+    "currentPage": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,8 @@
     "versionFirst": "4.10.2",
     "siteFonts": [],
     "uniqCompNum": 24,
-    "versionPublish": "4.10.2"
+    "versionPublish": "4.10.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "Genesis-II.html": {
@@ -418,7 +419,7 @@
                 "alt": "",
                 "title": "Genesis® II E-610 GBS – Gasgrill ",
                 "customStyle1": "display-7",
-                "caption": "Genesis® II LX E-240 GBS – Gasgrill (Schwarz)",
+                "caption": "<a href=\"https://omegasales.de/products/genesis-ii-serie-60014179\">Genesis® II LX E-240 GBS – Gasgrill (Schwarz)</a>",
                 "active": false
               },
               {
@@ -431,7 +432,7 @@
                 "alt": "",
                 "title": "Genesis® II LX S-240 GBS – Gasgrill ",
                 "customStyle1": "display-7",
-                "caption": "Genesis® II LX E-240 GBS – Gasgrill (Edelstahl)",
+                "caption": "<a href=\"https://omegasales.de/products/genesis-ii-serie-60014179\">Genesis® II LX E-240 GBS – Gasgrill (Edelstahl)</a>",
                 "active": false
               },
               {
@@ -444,7 +445,7 @@
                 "alt": "",
                 "title": "Genesis® II E-310 GBS – Gasgrill ",
                 "customStyle1": "display-7",
-                "caption": "Genesis® II E-310 GBS – Gasgrill (Schwarz)&nbsp;<br>",
+                "caption": "<p><a href=\"https://omegasales.de/products/genesis-ii-serie-61010179\"></a>Genesis® II E-310 GBS – Gasgrill (Schwarz)&nbsp;<br></p>",
                 "active": false
               },
               {
@@ -457,7 +458,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Genesis® II S-310 GBS – Gasgrill (Edelstahl)&nbsp;<br>",
+                "caption": "<a href=\"https://omegasales.de/products/genesis-ii-serie-61000179\"><b>Genesis® II S-310 GBS – Gasgrill (Edelstahl)&nbsp;</b></a><br>",
                 "active": false
               },
               {
@@ -470,7 +471,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Genesis® II EP-335 GBS – Gasgrill (Schwarz)&nbsp;<br>",
+                "caption": "<a href=\"https://omegasales.de/products/genesis-ii-serie-61016179\">Genesis® II EP-335 GBS – Gasgrill (Schwarz)&nbsp;</a><br>",
                 "active": false
               },
               {
@@ -483,7 +484,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Genesis® II SP-335 GBS – Gasgrill&nbsp;(Edelstahl)&nbsp;<br>",
+                "caption": "<a href=\"https://omegasales.de/products/genesis-ii-serie-61006179\">Genesis® II SP-335 GBS – Gasgrill&nbsp;(Edelstahl)&nbsp;</a><br>",
                 "active": false
               },
               {
@@ -496,7 +497,7 @@
                 "alt": "",
                 "title": "Genesis® II E-410 GBS – Gasgrill ",
                 "customStyle1": "display-7",
-                "caption": "Genesis® II E-410 GBS – Gasgrill (Schwarz)&nbsp;<br>",
+                "caption": "<a href=\"https://omegasales.de/products/genesis-ii-serie-62010179\">Genesis® II E-410 GBS – Gasgrill (Schwarz)&nbsp;</a><br>",
                 "active": false
               },
               {
@@ -509,7 +510,7 @@
                 "alt": "",
                 "title": "Genesis® II S-410 GBS – Gasgrill ",
                 "customStyle1": "display-7",
-                "caption": "Genesis® II S-410 GBS – Gasgrill &nbsp;(Edelstahl)&nbsp;<br>",
+                "caption": "<i><a href=\"https://omegasales.de/products/genesis-ii-serie-62001179\">Genesis® II S-410 GBS – Gasgrill &nbsp;(Edelstahl)&nbsp;</a></i><br>",
                 "active": false
               },
               {
@@ -522,7 +523,7 @@
                 "alt": "",
                 "title": "Genesis® II EP-435 GBS – Gasgrill ",
                 "customStyle1": "display-7",
-                "caption": "Genesis® II EP-435 GBS – Gasgrill (Schwarz)&nbsp;<br>",
+                "caption": "<a href=\"https://omegasales.de/products/genesis-ii-serie-62016179\">Genesis® II EP-435 GBS – Gasgrill (Schwarz)&nbsp;</a><br>",
                 "active": false
               },
               {
@@ -535,7 +536,7 @@
                 "alt": "",
                 "title": "Genesis® II SP-435 GBS – Gasgrill ",
                 "customStyle1": "display-7",
-                "caption": "Genesis® II SP-435 GBS – Gasgrill (Edelstahl)<br>",
+                "caption": "<a href=\"https://omegasales.de/products/genesis-ii-serie-62006179\">Genesis® II SP-435 GBS – Gasgrill (Edelstahl)</a><br>",
                 "active": false
               },
               {
@@ -548,7 +549,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Genesis® II E-410 GBS – Gasgrill (Schwarz)&nbsp;<br>",
+                "caption": "<a href=\"https://omegasales.de/products/genesis-ii-serie-62011179\">Genesis® II E-410 GBS – Gasgrill (Schwarz)&nbsp;</a><br>",
                 "active": true
               }
             ]
