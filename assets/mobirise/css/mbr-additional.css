@@ -382,8 +382,8 @@ body {
 .btn-success-outline.focus,
 .btn-success-outline.active {
   color: #3f3c03;
-  background-color: #f7ed4a;
-  border-color: #f7ed4a;
+  background-color: #EE4C71;
+  border-color: #EE4C71;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
