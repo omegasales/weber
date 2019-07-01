@@ -472,7 +472,7 @@ body {
   color: #ff3366 !important;
 }
 .text-success {
-  color: #f7ed4a !important;
+  color: #ffffff !important;
 }
 .text-info {
   color: #82786e !important;
@@ -549,8 +549,8 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #149dcc;
-  border-color: #149dcc;
+  background-color: #EE4C71;
+  border-color: #EE4C71;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
