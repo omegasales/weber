@@ -1612,7 +1612,7 @@ body {
 .cid-rsGk0BqJGy .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-rsGk0BqJGy .mbr-gallery-item > div::before {
+.cid-rsGk0BqJGy .-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -1649,7 +1649,7 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #cc2952 !important;
+  background: #ffffff !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
