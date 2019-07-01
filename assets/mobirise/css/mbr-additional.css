@@ -320,8 +320,8 @@ body {
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #149dcc;
-  border-color: #149dcc;
+  background-color: #EE4C71;
+  border-color: #EE4C71;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
