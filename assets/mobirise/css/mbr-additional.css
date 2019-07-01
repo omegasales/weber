@@ -388,8 +388,8 @@ body {
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #3f3c03 !important;
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
+  background-color: #EE4C71 !important;
+  border-color: #EE4C71 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
